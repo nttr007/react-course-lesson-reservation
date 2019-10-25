@@ -1,0 +1,7 @@
+comando para instalar kit de redux 
+
+npx install --save redux-starter-kit
+
+
+libreria para vincular 
+yarn add react-redux
