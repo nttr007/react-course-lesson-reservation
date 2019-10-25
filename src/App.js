@@ -18,7 +18,7 @@ const App = () => {
   }, [user, setLang]);
 
  
- // TODO NTTR007  pendiente mover additem en searchresults
+
   return (
     <main>
       <Provider store={store}>

@@ -1,7 +1,11 @@
-comando para instalar kit de redux 
-
-npx install --save redux-starter-kit
 
 
-libreria para vincular 
-yarn add react-redux
+#comando para instalar kit de redux 
+npm install --save redux-starter-kit
+
+#libreria para vincular 
+ nmp install  react-redux
+
+ Nota: antes de arranacar la aplicación es necesario levantar el servicio server-json 
+ con el comando: npm run db
+ 
